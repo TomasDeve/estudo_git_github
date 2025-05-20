@@ -1,13 +1,29 @@
-1 - git init (Para iniciar o git na pasta específica)
-2 - git clone "repo"  (Para baixar um repositório)
-3 - git add . (adicionar todas as mudanças)
+1 - INIT
 
-COMMIT 
+- git init (Para iniciar o git na pasta específica)
 
-1 - git commit "nome do arquivo" -m "mensagem" (Commit de um arquivo específico)
-2 - git commit -a -m "menssagem" (-a vem de all, commit de tudo)
+2 - CLONE
 
-PUSH 
+- git clone "Link do repo"  (Para baixar um repositório) (feito 1 vez só)
 
-1 - git status está ok!
-2 - 
+3 - ADD
+
+- git add . (adicionar todas as mudanças)
+
+4 - COMMIT 
+
+- git commit "nome do arquivo" -m "mensagem" (Commit de um arquivo específico)
+- git commit -a -m "menssagem" (-a vem de all, commit de tudo)
+
+5 - PUSH 
+
+- git status está ok!
+- git push (envia tudo para o repo)
+
+6 - PULL
+
+- git pull (comando utilizado para baixar as alterações feitas de outros locais no github)
+
+7 - RM 
+
+git rm "nome do arquivo"
