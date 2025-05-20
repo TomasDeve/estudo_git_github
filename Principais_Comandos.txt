@@ -6,3 +6,8 @@ COMMIT
 
 1 - git commit "nome do arquivo" -m "mensagem" (Commit de um arquivo específico)
 2 - git commit -a -m "menssagem" (-a vem de all, commit de tudo)
+
+PUSH 
+
+1 - git status está ok!
+2 - 
