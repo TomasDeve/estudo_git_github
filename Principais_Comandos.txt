@@ -1,0 +1,3 @@
+1 - git init (Para iniciar o git na pasta específica)
+2 - git clone "repo"  (Para baixar um repositório)
+3 - git add . (adicionar todas as mudanças)
