@@ -27,3 +27,7 @@
 7 - RM 
 
 git rm "nome do arquivo"
+
+8 - LOG
+
+- git log (Ver o histórico de ocmmits)
