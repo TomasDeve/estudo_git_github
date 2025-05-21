@@ -30,4 +30,18 @@ git rm "nome do arquivo"
 
 8 - LOG
 
-- git log (Ver o histórico de ocmmits)
+- git log (Ver o histórico de commits)
+
+============================
+
+DESFAZENDO ALTERAÇÕES 
+
+1 - CHECKOUT 
+
+- git checkout "nome da pasta ou arquivo"
+
+EXPLICAÇÃO: A pasta volta ao estado do último push
+
+=================================
+
+
