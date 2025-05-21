@@ -1,1 +1,1 @@
-Array
+encodeURI
