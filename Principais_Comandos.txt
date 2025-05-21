@@ -38,10 +38,15 @@ DESFAZENDO ALTERAÇÕES
 
 1 - CHECKOUT 
 
-- git checkout "nome da pasta ou arquivo"
-
 EXPLICAÇÃO: A pasta volta ao estado do último push
+
+- git checkout "nome da pasta ou arquivo"
 
 =================================
 
+GIT IGNORE 
 
+EXPLICAÇÃO: Serve para ignorar alguns arquivos ou pastas na hora de mexer com git (fazer commits ou push)
+
+1 - Criar pasta ".gitignore" no repositório principal. 
+2 - dentro da pasta posso colocar o caminho do arquivo a ser ignorado em cada linha. 
