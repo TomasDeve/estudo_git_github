@@ -1,0 +1,34 @@
+!! BOAS PRÁTICAS !!
+
+OBS: As branchs devem ser criadas sempre partindo da branch principal e não de outras branchs secundárias. 
+
+OBS: Não é comum deletar um branch, normalmente guardamos o histórico de trabalho. 
+
+OBS: Não mudar de branch sem dar commit antes (da problema)
+
+=============================
+
+CRIAR BRANCH 
+
+- git branch "nome do branch"
+
+=============================
+
+DELETANDO BRANCHS 
+
+OBS: Não é comum deletar um branch, normalmente guardamos o histórico de trabalho. 
+
+- git branch -d ou --delete "nome_da_branch"
+
+==============================
+
+ALTERANDO ENTRE BRANCHS
+
+- git checkout nome-da-branch
+- git switch nome-da-branch
+
+==============================
+
+UNINDO BRANCHES
+
+EXPLICAÇÃO: Vai adicionar as diferenças da uma branch à outra branch 
