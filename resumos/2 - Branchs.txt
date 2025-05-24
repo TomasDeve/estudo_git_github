@@ -34,3 +34,14 @@ UNINDO BRANCHES
 EXPLICAÇÃO: Vas trazer as modificações de outra banch à branch atual 
 
 - git merge "nome da branch"
+
+==============================
+
+TAGS 
+
+EXPLICAÇÃO: As tags são checkpoints dentro de uma branch, é como se fosse a branch da branch 
+
+CRIANDO TAGS: 
+
+- git tag -a <nome> -m <mensagem>
+
