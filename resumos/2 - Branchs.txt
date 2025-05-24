@@ -31,4 +31,6 @@ ALTERANDO ENTRE BRANCHS
 
 UNINDO BRANCHES
 
-EXPLICAÇÃO: Vai adicionar as diferenças da uma branch à outra branch 
+EXPLICAÇÃO: Vas trazer as modificações de outra banch à branch atual 
+
+- git merge "nome da branch"
