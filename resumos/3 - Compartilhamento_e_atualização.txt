@@ -1,0 +1,5 @@
+VERIFICANDO SE HÁ BRANCHS CRIADAS POR OUTROS DEVS 
+
+- branch fetch
+
+==============================
