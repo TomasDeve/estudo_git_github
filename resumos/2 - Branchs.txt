@@ -45,3 +45,10 @@ CRIANDO TAGS:
 
 - git tag -a <nome> -m <mensagem>
 
+ENVIANDO TAGS AO REPOSITÓRIO 
+
+- git push origin <nome>
+
+ENVIAR TODAS AS TAGS 
+
+- git push origin --tags
